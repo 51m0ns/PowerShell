@@ -1,2 +1,2 @@
-# ps-ad-group-member
-powershell ad group member
+# Powershell funktions and scripts
+
